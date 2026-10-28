@@ -39,12 +39,10 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=blanclinux&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true" alt="stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blanclinux&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="top languages" />
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=blanclinux&theme=tokyonight" alt="profile summary" />
 
-<img height="150" src="https://streak-stats.demolab.com?user=blanclinux&theme=tokyonight&hide_border=true" alt="streak" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=blanclinux&theme=tokyo-night&hide_border=true&area=true" alt="activity graph" />
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=blanclinux&theme=tokyonight" alt="top languages" />
+<img height="165" src="https://streak-stats.demolab.com?user=blanclinux&theme=tokyonight&hide_border=true" alt="streak" />
 
 </div>
 
